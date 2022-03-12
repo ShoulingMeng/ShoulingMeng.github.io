@@ -29,7 +29,7 @@ Project
 ======
 1.  Mechanism of Overburden “two-zone” Development induced by Thick Coal Seam High-intensity Longwall Mining, funded by National Natural Science Foundation of China (2017-2021)
     
-2.  Overlying Aquifer Damage and Mitigation Methods in Longwall Top-coal Caving Mining Method, funded by Henan province Science and Technology Innovation Foundation (2018-2020)6
+2.  Overlying Aquifer Damage and Mitigation Methods in Longwall Top-coal Caving Mining Method, funded by Henan province Science and Technology Innovation Foundation (2018-2020)
     
 
 Book Chapter
@@ -125,21 +125,6 @@ Conference paper
 4.  Wenbing Guo, **Gaobo Zhao**, Gaozhong Lou, et al. Study on the height of fractured zone inside overlying strata under high-intensity mining in China\[C\]. Proceedings of the 37th International Conference on Ground Control in Mining, ICGCM 2018, p 309-315. (Conference paper)
     
 5.  **Gaobo Zhao**, Wenbing Guo, Yi Tan, et al. Investigation on Fractured Zone due to High-intensity Longwall Mining \[C\]. 2nd Academic Forum on Mine Geological Environmental Protection in Western China. Xi'an City, China. 2018: 28. (Abstract + Presentation)
-    
-
-Reviewed paper
-======
-1.  An overview of chimney subsidence above coal mines \[J\]. Geotechnical and Geological Engineering. 2022.
-    
-2.  Overlying strata movement and abutment pressure evolution process of fully mechanized top coal caving mining in extra thick coal seam \[J\]. Geofluids. 2021.
-    
-3.  Mechanism of hydraulic fracturing cutting hard basic roof to prevent rock burst\[J\]. Shock and Vibration. 2021.
-    
-4.  Soil quality evolution at subsidence slope in coal mining area: A complex network approach \[J\]. Journal of Soil Science and Plant Nutrition. 2021.
-    
-5.  Study on development law of water-permeable fractured zone in large mining height of extra-thick alluvium and soft rock. Journal of China University of Mining & Technology. 2021. (in Chinese)
-    
-6.  Measurement and nonlinear prediction of the height of methane/water conducting fractured zone in fully mechanized longwall coal mining\[J\]. Internation Journal of Mining Science Technology. 2020.
     
 
 Honor
