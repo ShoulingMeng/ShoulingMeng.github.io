@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Gaobo Zhao/赵高博"
   avatar           : "bio-photo.jpeg"
-  bio              : #"   签名!"  
-  location         : "West Virginia University, Morgantown,/n WV, USA, 26505"
+  bio              : "West Virginia University, Morgantown"#"   签名!"  
+  location         : "WV, USA, 26505"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
