@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Gaobo Zhao/赵高博"
   avatar           : "bio-photo.jpeg"
-  bio              : "   签名!"  
-  location         : "地址"
+  bio              : #"   签名!"  
+  location         : "West Virginia University, Morgantown, WV, USA, 26505"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : cloudzhao0034@gmail.com
+  email            : gz00001@mix.wvu.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
