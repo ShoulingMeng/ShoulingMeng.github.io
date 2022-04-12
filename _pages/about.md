@@ -128,11 +128,17 @@ Conference paper
 Reviewer for professional journals
 ======
 Internation Journal of Mining Science Technology
+
 Geotechnical and Geological Engineering
+
 US ROCK MECHANICS / GEOMECHANICS SYMPOSIUM
+
 Journal of Soil Science and Plant Nutrition
+
 Shock and Vibration
+
 Geofluids
+
 Journal of China University of Mining and Technology
 
 Honor
