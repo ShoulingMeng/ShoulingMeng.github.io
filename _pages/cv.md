@@ -126,6 +126,9 @@ Conference paper
     
 5.  **Gaobo Zhao**, Wenbing Guo, Yi Tan, et al. Investigation on Fractured Zone due to High-intensity Longwall Mining \[C\]. 2nd Academic Forum on Mine Geological Environmental Protection in Western China. Xi'an City, China. 2018: 28. (Abstract + Presentation)
     
+Reviewer for professional journals
+======
+Internation Journal of Mining Science Technology；Geotechnical and Geological Engineering；US ROCK MECHANICS / GEOMECHANICS SYMPOSIUM；Journal of Soil Science and Plant Nutrition；Shock and Vibration；Geofluids；Journal of China University of Mining and Technology
 
 Honor
 ======
